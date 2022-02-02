@@ -7,3 +7,12 @@
 body {
   background-color: linen;
 }
+span {
+  color: rgb(214, 146, 43);
+  background-color: red;
+}
+.external_change {
+  margin-top: 20px;
+  color: white;
+  background-color: black;
+}
