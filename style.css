@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.practice {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.setdiv {
+  background-color: lightgray;
+}
+.para {
+  background-color: lightyellow;
+  padding: 20px;
+  border-radius: 10px;
+}
