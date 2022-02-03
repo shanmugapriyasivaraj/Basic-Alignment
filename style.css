@@ -10,3 +10,10 @@ span {
   color: white;
   background-color: black;
 }
+table {
+  padding: 25px;
+}
+tbody {
+  color: hotpink;
+  background-color: darkgrey;
+}
