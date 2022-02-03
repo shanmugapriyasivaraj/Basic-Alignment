@@ -1,4 +1,4 @@
-body {
+/* body {
   background-color: linen;
 }
 span {
@@ -16,4 +16,23 @@ table {
 tbody {
   color: hotpink;
   background-color: darkgrey;
+} */
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(odd) {
+  background-color: #8feb8c;
+}
+tr:nth-child(even) {
+  background-color: rgb(228, 144, 158);
 }
